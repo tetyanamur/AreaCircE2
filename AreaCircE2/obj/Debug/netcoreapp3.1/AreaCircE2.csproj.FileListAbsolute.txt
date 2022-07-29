@@ -1,0 +1,14 @@
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\bin\Debug\netcoreapp3.1\AreaCircE2.exe
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\bin\Debug\netcoreapp3.1\AreaCircE2.deps.json
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\bin\Debug\netcoreapp3.1\AreaCircE2.runtimeconfig.json
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\bin\Debug\netcoreapp3.1\AreaCircE2.runtimeconfig.dev.json
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\bin\Debug\netcoreapp3.1\AreaCircE2.dll
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\bin\Debug\netcoreapp3.1\AreaCircE2.pdb
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.csproj.AssemblyReference.cache
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.AssemblyInfoInputs.cache
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.AssemblyInfo.cs
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.csproj.CoreCompileInputs.cache
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.dll
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.pdb
+C:\Users\oksyp\repos\AreaCircE2\AreaCircE2\obj\Debug\netcoreapp3.1\AreaCircE2.genruntimeconfig.cache
